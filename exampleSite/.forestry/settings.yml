@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url: 
+webhook_url: https://discord.com/api/webhooks/905000912261623858/BigsdRd6gpwQkYa0q9YNFRuX2btFjYTpo9BGROtLa5QPsKn_Xn3GdOXVrBhCQajRjQEc
 sections:
 - type: directory
   path: exampleSite/content
